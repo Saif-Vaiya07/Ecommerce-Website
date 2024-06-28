@@ -125,7 +125,7 @@ header .menu {
 .menu ul li a .h-logo{
         font-size: 20px;
 }
-.container{background-color: aqua;
+.container{
         margin-top: 160px;
         flex-direction:column;
         align-content: center;
